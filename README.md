@@ -8,7 +8,7 @@ I am currently looking for a job as a Backend Developer and Frontend Developer. 
 
 * 🌍  I'm based in ฺBangkok, Thailand
 * ✉️  You can contact me at [pragasit116@gmail.com](mailto:pragasit116@gmail.com)
-* 🧠  I'm learning Golang language
+* 🧠  I'm learning Nodejs
 * ⚡  Willing to learn new programming languages and new technologies.
 
 ### Skills
