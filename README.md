@@ -6,7 +6,7 @@ Backend Developer, Fontend Developer
 
 I am currently looking for a job as a Backend Developer and Frontend Developer. I have skills in Python (Django), Golang, JavaScript, HTML, and CSS. I am now studying to further develop my skills in Nodejs.
 
-* 🌍  I'm based in ฺBangkok, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pragasit116@gmail.com](mailto:pragasit116@gmail.com)
 * 🧠  I'm learning Nodejs
 * ⚡  Willing to learn new programming languages and new technologies.
