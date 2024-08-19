@@ -4,7 +4,7 @@ Hi 👋 My name is Pragasit Boriboon
 Backend Developer, Fontend Developer
 ------------------------------------
 
-I am currently looking for a job as a Backend Developer and Frontend Developer. I have skills in Python (Django), Golang, JavaScript, HTML, and CSS. I am now studying to further develop my skills in Golang.
+I am currently looking for a job as a Backend Developer and Frontend Developer. I have skills in Python (Django), Golang, JavaScript, HTML, and CSS. I am now studying to further develop my skills in Nodejs.
 
 * 🌍  I'm based in ฺBangkok, Thailand
 * ✉️  You can contact me at [pragasit116@gmail.com](mailto:pragasit116@gmail.com)
